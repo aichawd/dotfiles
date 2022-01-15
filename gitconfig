@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = awdstrategy@gmail.com
+	name = Aicha Diagne
